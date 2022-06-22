@@ -43,7 +43,7 @@ def merge_bbox(bbox_list):
     return [min(x0), min(y0), max(x1), max(y1)]
 
 
-_URL = "https://github.com/brigs1/Neocustom/dataset.zip"
+_URL = "https://github.com/brigs1/Neocustom"
 
 logger = logging.getLogger(__name__)
 
