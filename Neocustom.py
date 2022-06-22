@@ -61,9 +61,9 @@ class NeocustomConfig(datasets.BuilderConfig):
 
 def Neocustom_to_xfun(Neocustom_path):
     ret = {}
-    train_path = f"{Neocustom_path}/dataset/training_data/"
-    ann_dir = os.path.join(train_path, "annotations")
-    img_dir = os.path.join(train_path, "images")
+    train_path = f"{Neocustom_path}/dataset/training_data!!!!!!/"
+    ann_dir = os.path.join(train_path, "annotations!!!!/")
+    img_dir = os.path.join(train_path, "images/")
     documents = []
     for guid, file in enumerate(sorted(os.listdir(ann_dir))):
         with open(os.path.join(ann_dir, file), "r", encoding="utf8") as f:
