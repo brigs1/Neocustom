@@ -8,7 +8,7 @@
                 215
             ],
             "text": "AUTHORS",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -36,7 +36,7 @@
                 239
             ],
             "text": "TITLE",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -64,7 +64,7 @@
                 330
             ],
             "text": "RECOMMENDATION:",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -92,7 +92,7 @@
                 182
             ],
             "text": "533",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -120,7 +120,7 @@
                 186
             ],
             "text": "Date",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -148,7 +148,7 @@
                 324
             ],
             "text": "x",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -176,7 +176,7 @@
                 353
             ],
             "text": "NOT",
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "box": [
@@ -199,7 +199,7 @@
                 352
             ],
             "text": "APPROVE",
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "box": [
@@ -222,7 +222,7 @@
                 836
             ],
             "text": "00070353",
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "box": [
@@ -246,7 +246,7 @@
                 84
             ],
             "linking": [],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "text": "Manuscript",
@@ -287,7 +287,7 @@
                 144
             ],
             "linking": [],
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "text": "TOBACCO",
@@ -324,7 +324,7 @@
                     3
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Registration",
@@ -361,7 +361,7 @@
                     12
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "March",
@@ -407,7 +407,7 @@
                     13
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Andrew",
@@ -507,7 +507,7 @@
                     14
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "\"Effect",
@@ -634,7 +634,7 @@
                     17
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "REVIEW",
@@ -666,7 +666,7 @@
                 355
             ],
             "linking": [],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "PRESENT",
@@ -703,7 +703,7 @@
                     17
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "3/",
@@ -744,7 +744,7 @@
                 330
             ],
             "linking": [],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "APPROVE",
@@ -790,7 +790,7 @@
                     20
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "(Give",
@@ -836,7 +836,7 @@
                     20
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "APPROVE",
@@ -873,7 +873,7 @@
                     22
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "SUBJECT",
@@ -964,7 +964,7 @@
                     22
                 ]
             ],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "text": "Page 4",
@@ -1086,7 +1086,7 @@
                 901
             ],
             "linking": [],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "text": "NOTE-",

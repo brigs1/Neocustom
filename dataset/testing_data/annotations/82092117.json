@@ -7,8 +7,8 @@
                 143,
                 211
             ],
-            "text": "간다",
-            "label": "other",
+            "text": "서울시",
+            "label": "A",
             "words": [
                 {
                     "box": [
@@ -17,7 +17,7 @@
                         143,
                         211
                     ],
-                    "text": "간다"
+                    "text": "서울시"
                 }
             ],
             "linking": [],
@@ -30,8 +30,8 @@
                 129,
                 359
             ],
-            "text": "TO:",
-            "label": "question",
+            "text": "양천구",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -40,7 +40,7 @@
                         129,
                         359
                     ],
-                    "text": "TO:"
+                    "text": "양천구"
                 }
             ],
             "linking": [
@@ -58,8 +58,8 @@
                 147,
                 423
             ],
-            "text": "DATE:",
-            "label": "question",
+            "text": "한다고",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -68,7 +68,7 @@
                         147,
                         423
                     ],
-                    "text": "DATE:"
+                    "text": "한다고"
                 }
             ],
             "linking": [
@@ -87,7 +87,7 @@
                 455
             ],
             "text": "3",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -115,7 +115,7 @@
                 98
             ],
             "text": "Fax:",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -143,7 +143,7 @@
                 708
             ],
             "text": "NOTE:",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -171,7 +171,7 @@
                 874
             ],
             "text": "82092117",
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "box": [
@@ -200,7 +200,7 @@
                     7
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "614",
@@ -241,7 +241,7 @@
                 101
             ],
             "linking": [],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "text": "Dec",
@@ -310,7 +310,7 @@
             "id": 8
         },
         {
-            "text": "ATT. GEN. ADMIN. OFFICE",
+            "text": "부산시 해운대구 중2동 이진빌라",
             "box": [
                 103,
                 84,
@@ -318,10 +318,10 @@
                 100
             ],
             "linking": [],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
-                    "text": "ATT.",
+                    "text": "부산시",
                     "box": [
                         103,
                         85,
@@ -330,7 +330,7 @@
                     ]
                 },
                 {
-                    "text": "GEN.",
+                    "text": "해운대구",
                     "box": [
                         133,
                         85,
@@ -339,7 +339,7 @@
                     ]
                 },
                 {
-                    "text": "ADMIN.",
+                    "text": "중2동",
                     "box": [
                         166,
                         84,
@@ -348,7 +348,7 @@
                     ]
                 },
                 {
-                    "text": "OFFICE",
+                    "text": "이진빌라",
                     "box": [
                         207,
                         84,
@@ -368,7 +368,7 @@
                 191
             ],
             "linking": [],
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "text": "Attorney",
@@ -427,7 +427,7 @@
                 281
             ],
             "linking": [],
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "text": "CONFIDENTIAL",
@@ -491,7 +491,7 @@
                     12
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "(614)",
@@ -537,7 +537,7 @@
                     12
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "FAX",
@@ -574,7 +574,7 @@
                     14
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "George",
@@ -611,7 +611,7 @@
                     15
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "(336)",
@@ -657,7 +657,7 @@
                     15
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "FAX",
@@ -694,7 +694,7 @@
                     18
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "PHONE",
@@ -731,7 +731,7 @@
                     18
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "(336)",
@@ -777,7 +777,7 @@
                     3
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "NUMBER",
@@ -850,7 +850,7 @@
                     20
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "June",
@@ -941,7 +941,7 @@
                     20
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "SENDER",
@@ -982,7 +982,7 @@
                 520
             ],
             "linking": [],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "SPECIAL",
@@ -1014,7 +1014,7 @@
                 646
             ],
             "linking": [],
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "text": "IF",
@@ -1186,7 +1186,7 @@
                     24
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "THIS",
@@ -2226,7 +2226,7 @@
                 928
             ],
             "linking": [],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "text": "State",
@@ -2429,7 +2429,7 @@
                 954
             ],
             "linking": [],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "text": "",
@@ -2493,7 +2493,7 @@
                     27
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "12",

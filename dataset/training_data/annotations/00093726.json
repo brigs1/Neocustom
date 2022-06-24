@@ -8,7 +8,7 @@
                 29
             ],
             "text": "Date:",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -36,7 +36,7 @@
                 154
             ],
             "text": "on",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -64,7 +64,7 @@
                 220
             ],
             "text": "BLEND",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -92,7 +92,7 @@
                 218
             ],
             "text": "CASING",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -120,7 +120,7 @@
                 218
             ],
             "text": "RECASING",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -148,7 +148,7 @@
                 298
             ],
             "text": "Cigarettes",
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "box": [
@@ -200,7 +200,7 @@
                 295
             ],
             "text": "Filters",
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "box": [
@@ -256,7 +256,7 @@
                 498
             ],
             "text": "Responsibility",
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "box": [
@@ -300,7 +300,7 @@
                 505
             ],
             "text": "apping",
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "box": [
@@ -344,7 +344,7 @@
                 656
             ],
             "text": "Requirements",
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "box": [
@@ -376,7 +376,7 @@
                 809
             ],
             "text": "Reports",
-            "label": "header",
+            "label": "D",
             "words": [
                 {
                     "box": [
@@ -412,7 +412,7 @@
                 63
             ],
             "text": "6030",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -440,7 +440,7 @@
                 237
             ],
             "text": "OGS",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -468,7 +468,7 @@
                 241
             ],
             "text": "OGS",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -496,7 +496,7 @@
                 237
             ],
             "text": "OGS",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -524,7 +524,7 @@
                 239
             ],
             "text": "OGS",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -552,7 +552,7 @@
                 326
             ],
             "text": "AMF",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -580,7 +580,7 @@
                 356
             ],
             "text": "25.",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -608,7 +608,7 @@
                 359
             ],
             "text": "0",
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "box": [
@@ -631,7 +631,7 @@
                 418
             ],
             "text": "554",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -659,7 +659,7 @@
                 530
             ],
             "text": "Ammons",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -687,7 +687,7 @@
                 542
             ],
             "text": "Wicker",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -715,7 +715,7 @@
                 574
             ],
             "text": "Routh",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -743,7 +743,7 @@
                 588
             ],
             "text": "\"",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -771,7 +771,7 @@
                 532
             ],
             "text": "White",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -799,7 +799,7 @@
                 546
             ],
             "text": "Blue",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -827,7 +827,7 @@
                 560
             ],
             "text": "White",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -855,7 +855,7 @@
                 574
             ],
             "text": "\"",
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "box": [
@@ -883,7 +883,7 @@
                 902
             ],
             "text": "00093726",
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "box": [
@@ -906,7 +906,7 @@
                 325
             ],
             "text": "Maker",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -938,7 +938,7 @@
                 342
             ],
             "text": "Length",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -970,7 +970,7 @@
                 357
             ],
             "text": "Circumference",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1002,7 +1002,7 @@
                 373
             ],
             "text": "Weight",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1034,7 +1034,7 @@
                 421
             ],
             "text": "Paper",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1066,7 +1066,7 @@
                 532
             ],
             "text": "Labels",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1098,7 +1098,7 @@
                 545
             ],
             "text": "Closures",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1130,7 +1130,7 @@
                 576
             ],
             "text": "Cartons",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1162,7 +1162,7 @@
                 592
             ],
             "text": "Markings",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1194,7 +1194,7 @@
                 684
             ],
             "text": "Laboratory",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1225,8 +1225,8 @@
                 84,
                 700
             ],
-            "text": "Other",
-            "label": "question",
+            "text": "A",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1235,7 +1235,7 @@
                         84,
                         700
                     ],
-                    "text": "Other"
+                    "text": "A"
                 }
             ],
             "linking": [
@@ -1258,7 +1258,7 @@
                 324
             ],
             "text": "Kind",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1290,7 +1290,7 @@
                 356
             ],
             "text": "Process",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1318,7 +1318,7 @@
                 403
             ],
             "text": "Circumference",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1346,7 +1346,7 @@
                 415
             ],
             "text": "Weight",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1374,7 +1374,7 @@
                 433
             ],
             "text": "Plasticizer",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1402,7 +1402,7 @@
                 574
             ],
             "text": "Shipping",
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "box": [
@@ -1440,7 +1440,7 @@
                     46
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "September",
@@ -1486,7 +1486,7 @@
                     11
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Sample",
@@ -1523,7 +1523,7 @@
                     49
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Type",
@@ -1569,7 +1569,7 @@
                     49
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "85",
@@ -1615,7 +1615,7 @@
                     51
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Batch",
@@ -1652,7 +1652,7 @@
                     51
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "50",
@@ -1689,7 +1689,7 @@
                     53
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Original",
@@ -1744,7 +1744,7 @@
                     53
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Dr.",
@@ -1799,7 +1799,7 @@
                     54
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "September",
@@ -1845,7 +1845,7 @@
                     56
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Sample",
@@ -1900,7 +1900,7 @@
                     56
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "W.",
@@ -1946,7 +1946,7 @@
                     12
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "FINAL",
@@ -1983,7 +1983,7 @@
                     59
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Additional",
@@ -2020,7 +2020,7 @@
                     59
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "3.",
@@ -2084,7 +2084,7 @@
                     60
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "20",
@@ -2148,7 +2148,7 @@
                     61
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Rod",
@@ -2185,7 +2185,7 @@
                     62
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Pressure",
@@ -2222,7 +2222,7 @@
                     63
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Plug",
@@ -2263,7 +2263,7 @@
                     64
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Tipping",
@@ -2304,7 +2304,7 @@
                     65
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Filter",
@@ -2341,7 +2341,7 @@
                     69
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Pressure",
@@ -2378,7 +2378,7 @@
                     67
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "85",
@@ -2415,7 +2415,7 @@
                     68
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "To",
@@ -2488,7 +2488,7 @@
                     69
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "To",
@@ -2534,7 +2534,7 @@
                     70
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "20",
@@ -2571,7 +2571,7 @@
                     71
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "30",
@@ -2612,7 +2612,7 @@
                     26
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Tear",
@@ -2649,7 +2649,7 @@
                     73
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Sample",
@@ -2708,7 +2708,7 @@
                     74
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Tobacco",
@@ -2749,7 +2749,7 @@
                     75
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Filter",
@@ -2790,7 +2790,7 @@
                     76
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Making",
@@ -2840,7 +2840,7 @@
                     77
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Sample",
@@ -2913,7 +2913,7 @@
                     78
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Brown",
@@ -2950,7 +2950,7 @@
                     79
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "3",
@@ -2987,7 +2987,7 @@
                     80
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "20,",
@@ -3033,7 +3033,7 @@
                     81
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Smoke",
@@ -3088,7 +3088,7 @@
                     81
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Laboratory",
@@ -3129,7 +3129,7 @@
                     87
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Written",
@@ -3170,7 +3170,7 @@
                     88
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Original",
@@ -3211,7 +3211,7 @@
                     86
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Copies",
@@ -3248,7 +3248,7 @@
                     86
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Dr.",
@@ -3339,7 +3339,7 @@
                     87
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "P.",
@@ -3385,7 +3385,7 @@
                     88
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Dr.",
@@ -3440,7 +3440,7 @@
                     89
                 ]
             ],
-            "label": "answer",
+            "label": "C",
             "words": [
                 {
                     "text": "Spray",
@@ -3936,7 +3936,7 @@
                     89
                 ]
             ],
-            "label": "question",
+            "label": "B",
             "words": [
                 {
                     "text": "Special",
@@ -3968,7 +3968,7 @@
                 987
             ],
             "linking": [],
-            "label": "other",
+            "label": "A",
             "words": [
                 {
                     "text": "Manager,",

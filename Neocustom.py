@@ -64,7 +64,7 @@ class Neocustom(datasets.GeneratorBasedBuilder):
                     "bboxes": datasets.Sequence(datasets.Sequence(datasets.Value("int64"))),
                     "ner_tags": datasets.Sequence(
                         datasets.features.ClassLabel(
-                            names=["O", "B-HEADER", "I-HEADER", "B-QUESTION", "I-QUESTION", "B-ANSWER", "I-ANSWER"]
+                            names=["A", "B", "C", "D", "E", "F", "G"]
                         )
                     ),
                     "image_path": datasets.Value("string"),
@@ -106,10 +106,10 @@ class Neocustom(datasets.GeneratorBasedBuilder):
                 words_example = [w for w in words_example if w["text"].strip() != ""]
                 if len(words_example) == 0:
                     continue
-                if label == "other":
+                if label == "A":
                     for w in words_example:
                         words.append(w["text"])
-                        ner_tags.append("O")
+                        ner_tags.append("Z")
                         bboxes.append(normalize_bbox(w["box"], size))
                 else:
                     words.append(words_example[0]["text"])
