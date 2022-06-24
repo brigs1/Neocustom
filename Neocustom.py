@@ -61,8 +61,8 @@ class NeocustomConfig(datasets.BuilderConfig):
 
 def Neocustom_to_xfun(Neocustom_path):
     ret = {}
-    train_path = f"{Neocustom_path}/dataset/training_data!!!!!!/"
-    ann_dir = os.path.join(train_path, "annotations!!!!/")
+    train_path = f"{Neocustom_path}/dataset/training_data/"
+    ann_dir = os.path.join(train_path, "annotations/")
     img_dir = os.path.join(train_path, "images/")
     documents = []
     for guid, file in enumerate(sorted(os.listdir(ann_dir))):
@@ -106,7 +106,7 @@ class Neocustom(datasets.GeneratorBasedBuilder):
                     "bbox": datasets.Sequence(datasets.Sequence(datasets.Value("int64"))),
                     "labels": datasets.Sequence(
                         datasets.ClassLabel(
-                            names=["가", "나", "다", "라", "마"]
+                            names=["O", "B-QUESTION", "B-ANSWER", "B-HEADER", "I-ANSWER", "I-QUESTION", "I-HEADER"]
                         )
                     ),
                     "image": datasets.Array3D(shape=(3, 224, 224), dtype="uint8"),
@@ -133,7 +133,8 @@ class Neocustom(datasets.GeneratorBasedBuilder):
 
     def _split_generators(self, dl_manager):
         """Returns SplitGenerators."""
-        downloaded_file = dl_manager.download_and_extract(_URL)
+        #downloaded_file = dl_manager.download_and_extract(_URL)
+        downloaded_file = dl_manager.download_and_extract("/home/y/Documents/Jupyter_tests/datasets/Neocustom/dataset.zip")
         downloaded_files = Neocustom_to_xfun(downloaded_file)
         train_files_for_many_langs = [downloaded_files["train"]]
         val_files_for_many_langs = [downloaded_files["val"]]
