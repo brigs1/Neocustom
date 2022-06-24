@@ -1,0 +1,30 @@
+{
+   "form":[
+      {
+         "box":[
+            1287,
+            1340,
+            1429,
+            1363
+         ],
+         "text":"354,000,000",
+         "label":"g",
+         "words":[
+            {
+               "box":[
+                  1287,
+                  1340,
+                  1429,
+                  1363
+               ],
+               "text":"354,000,000"
+            }
+         ],
+         "linking":[
+            
+         ],
+         "id":20,
+         "image_path":"/home/y/Documents/Jupyter_tests/datasets/Neocustom/dataset/testing_data/images/01-220125-201_12.png"
+      }
+   ]
+}
