@@ -91,32 +91,37 @@ class Neocustom(datasets.GeneratorBasedBuilder):
         logger.info("⏳ Generating examples from = %s", filepath)
         ann_dir = os.path.join(filepath, "annotations")
         img_dir = os.path.join(filepath, "images")
+        
         for guid, file in enumerate(sorted(os.listdir(ann_dir))):
             words = []
             bboxes = []
             ner_tags = []
             file_path = os.path.join(ann_dir, file)
+            
             with open(file_path, "r", encoding="utf8") as f:
                 data = json.load(f)
             image_path = os.path.join(img_dir, file)
             image_path = image_path.replace("json", "png")
             image, size = load_image(image_path)
+            
             for item in data["form"]:
                 words_example, label = item["words"], item["label"]
                 words_example = [w for w in words_example if w["text"].strip() != ""]
+                
                 if len(words_example) == 0:
                     continue
-                if label == "A":
-                    for w in words_example:
-                        words.append(w["text"])
-                        ner_tags.append("Z")
-                        bboxes.append(normalize_bbox(w["box"], size))
-                else:
-                    words.append(words_example[0]["text"])
-                    ner_tags.append("B-" + label.upper())
-                    bboxes.append(normalize_bbox(words_example[0]["box"], size))
-                    for w in words_example[1:]:
-                        words.append(w["text"])
-                        ner_tags.append("I-" + label.upper())
-                        bboxes.append(normalize_bbox(w["box"], size))
+                    
+                #if label == "A":
+                    #for w in words_example:
+                        #words.append(w["text"])
+                        #ner_tags.append("Z")
+                        #bboxes.append(normalize_bbox(w["box"], size))
+                #else:
+                    #words.append(words_example[0]["text"])
+                    #ner_tags.append("B-" + label.upper())
+                    #bboxes.append(normalize_bbox(words_example[0]["box"], size))
+                    #for w in words_example[1:]:
+                        #words.append(w["text"])
+                        #ner_tags.append("I-" + label.upper())
+                        #bboxes.append(normalize_bbox(w["box"], size))
             yield guid, {"id": str(guid), "words": words, "bboxes": bboxes, "ner_tags": ner_tags, "image_path": image_path}
